@@ -3,8 +3,8 @@ import { ZegoUIKitPrebuilt } from '@zegocloud/zego-uikit-prebuilt';
 
 const VideoChat: React.FC = () => {
   const myMeeting = async (element: HTMLDivElement) => {
-    const appID = 1948834036;
-    const serverSecret = "6c0701b0cc45f665182b1bc6435e69ee";
+    const appID = 2143478786;
+    const serverSecret = "5dd74557b3002f4a0b60b2c8fa35b752";
     const roomID = "room-1";
     const userID = Math.floor(Math.random() * 10000) + "";
     const userName = "user_" + userID;
