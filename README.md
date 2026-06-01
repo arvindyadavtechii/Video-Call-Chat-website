@@ -3,7 +3,7 @@
 ![React Version](https://img.shields.io/badge/React-18.2.0-blue)
 ![Node Version](https://img.shields.io/badge/Node-18.17.1-green)
 
-A professional-grade video conferencing platform using Zego Cloud's real-time communication services. Supports multi-user meetings with chat, screen sharing, and call controls.
+A professional-grade video conferencing platform using Zego Cloud's real-time communication services. Supports multi-user meetings with chat, screen sharing, and call controls..
 
 ## Features ✨
 - 🎥 1:1 & group video calls (up to 50 participants)
